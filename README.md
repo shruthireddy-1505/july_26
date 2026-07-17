@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shruthireddy-1505/july_26/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/shruthireddy-1505/july_26/tree/master/0724-find-pivot-index) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shruthireddy-1505/july_26/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shruthireddy-1505/july_26/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shruthireddy-1505/july_26/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/shruthireddy-1505/july_26/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shruthireddy-1505/july_26/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/shruthireddy-1505/july_26/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shruthireddy-1505/july_26/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shruthireddy-1505/july_26/tree/master/0209-minimum-size-subarray-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shruthireddy-1505/july_26/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
