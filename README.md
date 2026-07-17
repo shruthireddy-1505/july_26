@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/shruthireddy-1505/july_26/tree/master/0165-compare-version-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shruthireddy-1505/july_26/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/shruthireddy-1505/july_26/tree/master/0006-zigzag-conversion) |
 | [0043-multiply-strings](https://github.com/shruthireddy-1505/july_26/tree/master/0043-multiply-strings) |
+| [0165-compare-version-numbers](https://github.com/shruthireddy-1505/july_26/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/shruthireddy-1505/july_26/tree/master/0168-excel-sheet-column-title) |
 | [0299-bulls-and-cows](https://github.com/shruthireddy-1505/july_26/tree/master/0299-bulls-and-cows) |
 ## Counting
