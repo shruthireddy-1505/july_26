@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/shruthireddy-1505/july_26/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/shruthireddy-1505/july_26/tree/master/0128-longest-consecutive-sequence) |
+| [0299-bulls-and-cows](https://github.com/shruthireddy-1505/july_26/tree/master/0299-bulls-and-cows) |
 | [2965-find-missing-and-repeated-values](https://github.com/shruthireddy-1505/july_26/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -50,4 +51,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/shruthireddy-1505/july_26/tree/master/0006-zigzag-conversion) |
 | [0043-multiply-strings](https://github.com/shruthireddy-1505/july_26/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/shruthireddy-1505/july_26/tree/master/0168-excel-sheet-column-title) |
+| [0299-bulls-and-cows](https://github.com/shruthireddy-1505/july_26/tree/master/0299-bulls-and-cows) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/shruthireddy-1505/july_26/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
