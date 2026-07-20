@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/shruthireddy-1505/july_26/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shruthireddy-1505/july_26/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shruthireddy-1505/july_26/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shruthireddy-1505/july_26/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shruthireddy-1505/july_26/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shruthireddy-1505/july_26/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/shruthireddy-1505/july_26/tree/master/1652-defuse-the-bomb) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/shruthireddy-1505/july_26/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/shruthireddy-1505/july_26/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shruthireddy-1505/july_26/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shruthireddy-1505/july_26/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shruthireddy-1505/july_26/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/shruthireddy-1505/july_26/tree/master/0299-bulls-and-cows) |
 | [0904-fruit-into-baskets](https://github.com/shruthireddy-1505/july_26/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shruthireddy-1505/july_26/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shruthireddy-1505/july_26/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shruthireddy-1505/july_26/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/shruthireddy-1505/july_26/tree/master/1695-maximum-erasure-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/shruthireddy-1505/july_26/tree/master/2965-find-missing-and-repeated-values) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/shruthireddy-1505/july_26/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/shruthireddy-1505/july_26/tree/master/0168-excel-sheet-column-title) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shruthireddy-1505/july_26/tree/master/1248-count-number-of-nice-subarrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/shruthireddy-1505/july_26/tree/master/2965-find-missing-and-repeated-values) |
 ## Union-Find
 |  |
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/shruthireddy-1505/july_26/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shruthireddy-1505/july_26/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/shruthireddy-1505/july_26/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/shruthireddy-1505/july_26/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shruthireddy-1505/july_26/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shruthireddy-1505/july_26/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/shruthireddy-1505/july_26/tree/master/1652-defuse-the-bomb) |
