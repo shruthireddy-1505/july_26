@@ -9,8 +9,8 @@ class Solution:
             window = sum(code[1:k+1])
             res[0] = window
             for i in range(1,len(code)):
-                window += code[(i+k)%n]
-                window -= code[i%n]
+                window += arr[i+k] 
+                window -= arr[i]
                 res[i] = window
         if k<0:
             #0 1 2 3 4 5 6 7
