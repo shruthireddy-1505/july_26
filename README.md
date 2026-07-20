@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shruthireddy-1505/july_26/tree/master/0128-longest-consecutive-sequence) |
 | [0299-bulls-and-cows](https://github.com/shruthireddy-1505/july_26/tree/master/0299-bulls-and-cows) |
 | [0904-fruit-into-baskets](https://github.com/shruthireddy-1505/july_26/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shruthireddy-1505/july_26/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/shruthireddy-1505/july_26/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/shruthireddy-1505/july_26/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/shruthireddy-1505/july_26/tree/master/0168-excel-sheet-column-title) |
 | [0299-bulls-and-cows](https://github.com/shruthireddy-1505/july_26/tree/master/0299-bulls-and-cows) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shruthireddy-1505/july_26/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting
 |  |
 | ------- |
@@ -87,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/shruthireddy-1505/july_26/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/shruthireddy-1505/july_26/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shruthireddy-1505/july_26/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/shruthireddy-1505/july_26/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shruthireddy-1505/july_26/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
