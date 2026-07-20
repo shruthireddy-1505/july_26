@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/shruthireddy-1505/july_26/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shruthireddy-1505/july_26/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/shruthireddy-1505/july_26/tree/master/1652-defuse-the-bomb) |
+| [1695-maximum-erasure-value](https://github.com/shruthireddy-1505/july_26/tree/master/1695-maximum-erasure-value) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shruthireddy-1505/july_26/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2965-find-missing-and-repeated-values](https://github.com/shruthireddy-1505/july_26/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/shruthireddy-1505/july_26/tree/master/0299-bulls-and-cows) |
 | [0904-fruit-into-baskets](https://github.com/shruthireddy-1505/july_26/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shruthireddy-1505/july_26/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1695-maximum-erasure-value](https://github.com/shruthireddy-1505/july_26/tree/master/1695-maximum-erasure-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/shruthireddy-1505/july_26/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -93,4 +95,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shruthireddy-1505/july_26/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shruthireddy-1505/july_26/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/shruthireddy-1505/july_26/tree/master/1652-defuse-the-bomb) |
+| [1695-maximum-erasure-value](https://github.com/shruthireddy-1505/july_26/tree/master/1695-maximum-erasure-value) |
 <!---LeetCode Topics End-->
