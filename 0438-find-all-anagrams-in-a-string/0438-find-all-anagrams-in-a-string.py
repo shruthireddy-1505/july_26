@@ -16,7 +16,7 @@ class Solution:
             else:
                 d1[s[r]] = 1
             
-            if r-l+1 > len(p):
+            while r-l+1 > len(p):
                 d1[s[l]] -= 1
 
                 if d1[s[l]] == 0:
