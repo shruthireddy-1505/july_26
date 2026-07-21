@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/shruthireddy-1505/july_26/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/shruthireddy-1505/july_26/tree/master/0128-longest-consecutive-sequence) |
 | [0299-bulls-and-cows](https://github.com/shruthireddy-1505/july_26/tree/master/0299-bulls-and-cows) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shruthireddy-1505/july_26/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/shruthireddy-1505/july_26/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shruthireddy-1505/july_26/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shruthireddy-1505/july_26/tree/master/1248-count-number-of-nice-subarrays) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/shruthireddy-1505/july_26/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/shruthireddy-1505/july_26/tree/master/0168-excel-sheet-column-title) |
 | [0299-bulls-and-cows](https://github.com/shruthireddy-1505/july_26/tree/master/0299-bulls-and-cows) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shruthireddy-1505/july_26/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/shruthireddy-1505/july_26/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shruthireddy-1505/july_26/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/shruthireddy-1505/july_26/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/shruthireddy-1505/july_26/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/shruthireddy-1505/july_26/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/shruthireddy-1505/july_26/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/shruthireddy-1505/july_26/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shruthireddy-1505/july_26/tree/master/0930-binary-subarrays-with-sum) |
