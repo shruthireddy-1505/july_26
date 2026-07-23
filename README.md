@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shruthireddy-1505/july_26/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/shruthireddy-1505/july_26/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/shruthireddy-1505/july_26/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/shruthireddy-1505/july_26/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/shruthireddy-1505/july_26/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/shruthireddy-1505/july_26/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shruthireddy-1505/july_26/tree/master/0724-find-pivot-index) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/shruthireddy-1505/july_26/tree/master/0165-compare-version-numbers) |
+| [0283-move-zeroes](https://github.com/shruthireddy-1505/july_26/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shruthireddy-1505/july_26/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
