@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shruthireddy-1505/july_26/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shruthireddy-1505/july_26/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/shruthireddy-1505/july_26/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/shruthireddy-1505/july_26/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/shruthireddy-1505/july_26/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/shruthireddy-1505/july_26/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/shruthireddy-1505/july_26/tree/master/0704-binary-search) |
@@ -114,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/shruthireddy-1505/july_26/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1652-defuse-the-bomb](https://github.com/shruthireddy-1505/july_26/tree/master/1652-defuse-the-bomb) |
 | [1695-maximum-erasure-value](https://github.com/shruthireddy-1505/july_26/tree/master/1695-maximum-erasure-value) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shruthireddy-1505/july_26/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shruthireddy-1505/july_26/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
