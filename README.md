@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shruthireddy-1505/july_26/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/shruthireddy-1505/july_26/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/shruthireddy-1505/july_26/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shruthireddy-1505/july_26/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/shruthireddy-1505/july_26/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/shruthireddy-1505/july_26/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shruthireddy-1505/july_26/tree/master/0724-find-pivot-index) |
@@ -133,10 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shruthireddy-1505/july_26/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shruthireddy-1505/july_26/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shruthireddy-1505/july_26/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shruthireddy-1505/july_26/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/shruthireddy-1505/july_26/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/shruthireddy-1505/july_26/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
