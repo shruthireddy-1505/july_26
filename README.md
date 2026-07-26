@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shruthireddy-1505/july_26/tree/master/0128-longest-consecutive-sequence) |
 | [0209-minimum-size-subarray-sum](https://github.com/shruthireddy-1505/july_26/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/shruthireddy-1505/july_26/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/shruthireddy-1505/july_26/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/shruthireddy-1505/july_26/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/shruthireddy-1505/july_26/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/shruthireddy-1505/july_26/tree/master/0724-find-pivot-index) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shruthireddy-1505/july_26/tree/master/0128-longest-consecutive-sequence) |
 | [0299-bulls-and-cows](https://github.com/shruthireddy-1505/july_26/tree/master/0299-bulls-and-cows) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shruthireddy-1505/july_26/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/shruthireddy-1505/july_26/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/shruthireddy-1505/july_26/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shruthireddy-1505/july_26/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shruthireddy-1505/july_26/tree/master/1248-count-number-of-nice-subarrays) |
@@ -130,6 +132,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/shruthireddy-1505/july_26/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shruthireddy-1505/july_26/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shruthireddy-1505/july_26/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shruthireddy-1505/july_26/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
