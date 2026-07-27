@@ -13,7 +13,9 @@ class Solution:
             res[dup] = count
         return res
         """
-        res = [0]*(n+1)
+        """
+        res = [0]c
+        *(n+1)
         for i in range(n+1):
             n = i
             count = 0
@@ -23,6 +25,13 @@ class Solution:
                 n>>=1
             res[i] = count
         return res
+        """
+        res = [0]*(n+1)
+        for i in range(1,n+1):
+            res[i] = res[i>>1] + (i&1)
+        return res
+
+
             
 
 
