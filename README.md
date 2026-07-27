@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/shruthireddy-1505/july_26/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/shruthireddy-1505/july_26/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/shruthireddy-1505/july_26/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/shruthireddy-1505/july_26/tree/master/0338-counting-bits) |
 ## Stack
 |  |
 | ------- |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/shruthireddy-1505/july_26/tree/master/0191-number-of-1-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/shruthireddy-1505/july_26/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
