@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/shruthireddy-1505/july_26/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/shruthireddy-1505/july_26/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/shruthireddy-1505/july_26/tree/master/0191-number-of-1-bits) |
 ## Stack
 |  |
 | ------- |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/shruthireddy-1505/july_26/tree/master/0901-online-stock-span) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/shruthireddy-1505/july_26/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
