@@ -8,7 +8,7 @@ class Solution:
                 else:
                     if i!="#":
                         st.append(i)
-            return "".join(st)
+            return st
 
         return fun(s) == fun(t)
 
